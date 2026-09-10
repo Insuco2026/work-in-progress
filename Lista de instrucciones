@@ -11,3 +11,16 @@ piezas para el PC recomendado
 
 
 pendrive
+(aqui ira la URL y las instrucciones para obtener la imagen del open media vault)
+https://www.youtube.com/watch?v=Dzao2FjRh7M&list=PL9k8nMt_92osx8XKKiUyIBwqzgzf33slN&index=4
+primero ir al navegador
+busca openmediavault y entra a la pagina de https://www.openmediavault.org
+una ves dentro ve a DOWNLOAD
+ahi selecciona la version mas actual STABLE
+una ves seleccionado empezara la descarga de OPENMEDIAVAULT_8.3.1-amd64.iso
+luego una ves descargada la ISO 
+para grabarlo en el USB usa tu programa de creacion de usb de aranque preferido (balenaEtcher, rufus etc)
+en balena (https://etcher.balena.io/) una ves entra a la pagina presiona Download Etcher y te giara a la parte de versiones para descargar
+aqui presiona en la descarga de tu SO (Etcher for Windows (x86|x64) (Installer) Windowsx86|x64) e instalamos 
+/en construccion/
+/continuar minuto 3:23/
