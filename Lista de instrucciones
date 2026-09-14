@@ -1,4 +1,4 @@
-V.1.02
+V.1.04
 https://youtube.com/playlist?list=PL9k8nMt_92osx8XKKiUyIBwqzgzf33slN&si=GOIGrZyUNaqUHWZn
 piezas para el PC recomendado
 
@@ -22,5 +22,10 @@ luego una ves descargada la ISO
 para grabarlo en el USB usa tu programa de creacion de usb de aranque preferido (balenaEtcher, rufus etc)
 en balena (https://etcher.balena.io/) una ves entra a la pagina presiona Download Etcher y te giara a la parte de versiones para descargar
 aqui presiona en la descarga de tu SO (Etcher for Windows (x86|x64) (Installer) Windowsx86|x64) e instalamos 
-/en construccion/
 /continuar minuto 3:23/
+/continuacion/
+ahora una ves descargado el programa abrelo y te aparecera una pagina en la que deberas seleccionar el USB la imagen para comenzar
+1.    aqui deberas selecciona la imagen iso "OPENMEDIAVAULT_8.3.1-amd64.iso" 
+2.    aqui deberas seleccionar con cuidado correctamente el USB y no seleccionar algun disco duro externo importante para evitar perdida de datos
+3.    una vez listo presiona en flash para empezar a crear el USB BOOT (posiblemente antes debas que concederles los permisos necesarios para la accion)
+4.    una vez terminada la carga ""felicidades"" ya creaste tu USB BOOT
