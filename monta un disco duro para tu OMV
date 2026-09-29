@@ -1,3 +1,10 @@
 V.1.0
 https://www.youtube.com/watch?v=xvSvq4GhSrQ&list=PL9k8nMt_92osx8XKKiUyIBwqzgzf33slN&index=17
 
+aqui podras aprender a montar un disco duro formatearlo y colocarle un sistema de archivo para tu OMV
+
+1.  accede a tu OMV
+2.  una ves aqui accede a ALMACENAMIENTO  y entra a DISCOS
+3.  aqui podras ver todos los discos que esten conectados a tu servidor (ten cuidado al manipular el disco duro que contenga el OMV)
+4.  identfica el disco que vas a utilizar
+5.  ahora una ves identificado seleccionalo y presiona en borrar y confirma , ahora elije el tipo de formateo que quieras utilizar (rapido y seguro)
