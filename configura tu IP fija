@@ -1,0 +1,21 @@
+V.1.0
+https://www.youtube.com/watch?v=hfw4yKAyUfo&list=PL9k8nMt_92osx8XKKiUyIBwqzgzf33slN&index=10&t=103s
+
+aqui podra aprender los pasos para configurar tu IP para tu NAS
+
+
+1.  accede a tu OMV
+2.  en el menu accede a RED y despues entra a interfaces
+3.  selecciona la interfaz que esta activa y presiona el boton del lapiz (editar)
+4.  ve a la zona de IPv4 y cambia DHCP a ESTATICO
+5.  en la parte de la direccion IP coloca un ip que este fuera del rango del servidor DHCP de tu router
+(para evitar problemas de asignacion de IP)
+6.  en la parte de mascara de red comunmente es 255.255.255.0 pero si tienes dudas verificalo en la configuracion de tu router
+7.  en GATEWAY coloca la direccion IP de tu router
+8.  ahora ve a configuraciones avanzadas aqui vas configurar un servidor DNS (aqui puedes utilizar los de google "8.8.8.8")
+9.  ahora dale clic a "salvar" (guardar)
+10. y aplica los cambios pendientes en la configuracion para guardarlos
+11. ahora para acceder en la barra de tu navegador coloca tu nueva IP que asignaste
+
+PERFECTO 
+terminaste de configurar una IP fija para tu NAS
