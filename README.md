@@ -1,2 +1,2 @@
 # work-in-progress
-SERVER
+servidor de openmediavault
