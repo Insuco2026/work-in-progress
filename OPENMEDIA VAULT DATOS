@@ -1,6 +1,8 @@
 c88a4c564230252e1ad031d5382bad5cec4941dc061d51b80a1b0890e000f5a8
 youtube playlist
 https://youtube.com/playlist?list=PL9k8nMt_92osx8XKKiUyIBwqzgzf33slN&si=GOIGrZyUNaqUHWZn
+PAGINA DE COMANDO DE CAMBIO DE USUARIO
+https://www.puntocomunica.com/comando-para-cambiar-de-usuario-desde-la-consola-de-linux/
 portainer
 http://192.168.50.200:9000/#!/home
 http://192.168.50.200:9000/#!/init/admin
@@ -20,3 +22,24 @@ appuser
 INSUCO2026
 insuco2026
 https://192.168.50.200:2222/
+COMANDOS 
+CREAR GRUPO
+sudo groupadd <nombre_grupo>
+CREAR USUARIO
+sudo adduser <nombre_usuario>
+AÑADIR USUARIO A UN GRUPO
+sudo usermod -aG <nombre_grupo> <nombre_usuario>
+COMPRUEBA SI UN USUARIO PERTENECE AL GRUPO
+getent group <nombre_grupo>
+REVISA EL GRUPO DEL USUARIO
+id <nombre_usuario>
+PERMISO DE ADMINISTRADOR
+sudo usermod -aG sudo <nombre_usuario>
+Cambiar a otro usuario conservando el entorno actual:
+su <nombre_usuario>
+Cambiar de usuario cargando por completo su perfil y variables de entorno
+su - nombre_usuario
+Cambiar al superusuario (root):
+su -
+Regresar a tu usuario original:
+Escribe exit o presiona Ctrl + D.
